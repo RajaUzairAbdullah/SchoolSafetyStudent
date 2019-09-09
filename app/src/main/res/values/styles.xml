@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="Theme.AppCompat.NoActionBar" >
+
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="Theme.AppCompat.NoActionBar" >
+    </style>
+
+
+    <style name="blackradio" parent="@style/Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:colorControlNormal">#000</item>
+        <item name="android:colorControlActivated">#4AA0DC</item>
+        <item name="android:colorControlHighlight">#54A1D6</item>
+        <item name="android:dateTextAppearance">@style/TextAppearance.AppCompat</item>
+    </style>
+
+
+</resources>

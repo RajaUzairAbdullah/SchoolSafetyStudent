@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">School Safety</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">student@gmail.com</string>
+    <string name="nav_header_subtitle">طالب طالب طالب</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Side BAR-->
+    <string name="menu_home">عن العلتقي</string>
+    <string name="menu_packages">الحقيبة التدريبية</string>
+    <string name="menu_contact">تواصل معنا</string>
+    <string name="menu_logout">تسجيل خروج</string>
+    <!--Side BAR-->
+
+    <!--Survey Data-->
+    <string name="survery_heading">محتويات الملتقي</string>
+    <string name="home_heading">ملتقي يوم السلامة</string>
+    <string name="packages_menu">الحقيبة التدريبية</string>
+    <string name="contactus_menu">تواصل معنا</string>
+    <!--Survey Data-->
+
+</resources>
